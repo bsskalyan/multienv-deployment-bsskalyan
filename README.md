@@ -55,9 +55,9 @@ FLASK_ENV=production
 
 ## Access URLs
 
-Frontend: http://EC2_PUBLIC_IP:3000
-Dev: http://EC2_PUBLIC_IP:3000/dev
-Prod: http://EC2_PUBLIC_IP:3000/prod
+Frontend: http://98.81.172.44:3000
+Dev: http://98.81.172.44:3000/dev
+Prod: http://98.81.172.44:3000/prod
 
 ## Testing
 
