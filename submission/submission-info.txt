@@ -2,7 +2,7 @@ Student Name: Kalyan BSS
 Repository URL: https://github.com/bsskalyan/multienv-deployment-bsskalyan
 Deployment Status: Working
 Access URLs:
-- Development: http://YOUR-EC2-IP:3000/dev
-- Production: http://YOUR-EC2-IP:3000/prod
-- Frontend: http://YOUR-EC2-IP:3000
+- Development: http://98.81.172.44:3000/dev
+- Production: http://98.81.172.44:3000/prod
+- Frontend: http://98.81.172.44:3000
 Date of Submission: 03-05-2026
